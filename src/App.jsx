@@ -225,7 +225,7 @@ export default function App() {
           <div className="rounded-3xl border border-white/10 bg-white/5 p-6">
             <h3 className="font-bold text-cyan-200">B.Tech CSE – AI & ML</h3>
             <p className="mt-2 text-slate-300">CMR Engineering College</p>
-            <p className="mt-2 text-slate-400">Current CGPA: 9.02</p>
+            <p className="mt-2 text-slate-400">Current CGPA: 9.03</p>
           </div>
 
           <div className="rounded-3xl border border-white/10 bg-white/5 p-6">
@@ -271,7 +271,7 @@ export default function App() {
           <div className="mt-8 rounded-3xl border border-white/10 bg-slate-950 p-6">
             <h3 className="font-bold">Academic Achievements</h3>
             <p className="mt-3 text-slate-300">
-              Maintaining a 9.02 CGPA in B.Tech CSE AI & ML, scored 91.3% in
+              Maintaining a 9.03 CGPA in B.Tech CSE AI & ML, scored 91.3% in
               Intermediate, and achieved 10 CGPA in SSC.
             </p>
           </div>
