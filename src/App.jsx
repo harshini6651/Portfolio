@@ -15,14 +15,16 @@ const projects = [
       "A machine learning and NLP project focused on classifying tweets into five sentiment categories.",
     tech: ["Python", "NLP", "Machine Learning", "Data Analysis"],
     skills: "NLP, ML concepts, text classification, data preprocessing",
-    github: "https://github.com/harshini6651/Penta-class-Sentiment-Analysis-of-tweets",
+    github:
+      "https://github.com/harshini6651/Penta-class-Sentiment-Analysis-of-tweets",
   },
   {
     title: "AI Data Assistant",
     description:
       "A Streamlit-based AI data assistant that converts natural language questions into SQL and retrieves insights from MySQL.",
     tech: ["Python", "Streamlit", "MySQL", "SQL"],
-    skills: "SQL generation, database querying, data visualization, AI-assisted analytics",
+    skills:
+      "SQL generation, database querying, data visualization, AI-assisted analytics",
     github: "https://github.com/harshini6651/ai-data-assistant",
   },
   {
@@ -103,11 +105,8 @@ export default function App() {
       <section id="home" className="mx-auto max-w-6xl px-6 py-20">
         <p className="mb-4 text-cyan-300">✨ AI & ML Student Portfolio</p>
 
-        <h1 className="text-4xl font-extrabold md:text-6xl">
-          Hi, I’m{" "}
-          <span className="text-cyan-300">
-            Sandugula Lalitha Sri Harshini
-          </span>
+        <h1 className="text-4xl font-extrabold md:text-6xl text-cyan-300">
+          Hi, I’m Sandugula Lalitha Sri Harshini
         </h1>
 
         <p className="mt-5 text-xl text-slate-300">
@@ -268,13 +267,6 @@ export default function App() {
             ))}
           </div>
 
-          <div className="mt-8 rounded-3xl border border-white/10 bg-slate-950 p-6">
-            <h3 className="font-bold">Academic Achievements</h3>
-            <p className="mt-3 text-slate-300">
-              Maintaining a 9.03 CGPA in B.Tech CSE AI & ML, scored 91.3% in
-              Intermediate, and achieved 10 CGPA in SSC.
-            </p>
-          </div>
         </div>
       </section>
 
